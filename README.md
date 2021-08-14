@@ -1,8 +1,8 @@
 # Docker zimbra 8.8.15 Dwinar
 
-# Zimbra
+# Tentang Repository
 
-Repository ini merupakan repository cara untuk install zimbra 8.8.15 pada docker
+Repository ini merupakan, repository cara untuk install zimbra 8.8.15 pada docker
 
 # Docker
 
