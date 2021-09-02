@@ -4,7 +4,7 @@
 # Created by Mohamad Ridwan					                               #
 ####################################################################
 FROM ubuntu:16.04
-MAINTAINER Mohamad Ridwan <mohamaddwinar@gmail.com>
+LABEL maintainer="Mohamad Ridwan <mohamaddwinar@gmail.com>"
 
 RUN echo "resolvconf resolvconf/linkify-resolvconf boolean false" | debconf-set-selections
 
